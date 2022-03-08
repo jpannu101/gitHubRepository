@@ -1,0 +1,7 @@
+	2) Open cloned project in IDE
+	- This will download the complete project from repository to the local machine.
+	- We need to open the project and work on it as per tester/developer requirement.
+	
+	3) Ready to ship back
+	- Once our work is done ( which is usually end of the day ), We then want to update the project on repository
+	-  > git add * > git commit > git push ( And this should update the new files on github repository )
